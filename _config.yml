@@ -1,3 +1,4 @@
+$ jekyll serve
 # Jykell configuration
 #markdown: redcarpet
 #highlighter: pygments
