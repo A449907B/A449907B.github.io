@@ -7,13 +7,13 @@ paginate: 5
 language: 'en-uk'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: 'VysočinaFlow'
+description: "Turisticko-zájmový blog pro Vysočinu."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'Adam Budinský'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
+nickname: 
 bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
 location: 'Maine, USA'
 url: 'http://biomadeira.github.io/jasper/'
